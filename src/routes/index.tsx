@@ -385,7 +385,7 @@ function LandingPage() {
           </p>
           <div className="mt-8">
             <CtaButton size="xl">
-              <span className="text-2xl">🛒</span>
+              <ShoppingCart className="h-5 w-5" />
               QUERO RECEBER EM CASA
             </CtaButton>
           </div>
