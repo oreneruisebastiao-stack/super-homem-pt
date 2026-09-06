@@ -11,6 +11,7 @@ import {
   Package,
   ArrowRight,
   Sparkles,
+  ShoppingCart,
 } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
