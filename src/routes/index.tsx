@@ -226,8 +226,8 @@ function LandingPage() {
               <p className="mt-6 text-balance text-lg leading-relaxed text-slate">
                 Uma fórmula de <strong className="text-navy">30 Comprimidos</strong> — suplemento alimentar masculino
                 com <strong className="text-navy">Ginseng, Pau de Cabinda, Ginkgo Biloba e Maca</strong>, desenvolvida
-                para homens que procuram apoiar a sua vitalidade, disposição, resistência e desempenho no dia a dia e
-                nos momentos íntimos.
+                para homens que procuram apoiar a sua vitalidade, disposição, resistência e desempenho nos momentos
+                íntimos.
               </p>
 
               <ul className="mt-6 space-y-3">
