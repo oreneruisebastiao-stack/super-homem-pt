@@ -8,13 +8,11 @@ import {
   Heart,
   Leaf,
   Check,
-  Package,
   ArrowRight,
   Sparkles,
   ShoppingCart,
 } from "lucide-react";
 
-import { Button } from "@/components/ui/button";
 import {
   Accordion,
   AccordionContent,
