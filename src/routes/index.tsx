@@ -496,7 +496,7 @@ function LandingPage() {
           href={CHECKOUT_URL}
           className="flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-cyan to-cyan/90 py-3.5 text-base font-bold text-white shadow-lg transition-all active:scale-[0.98]"
         >
-          <span>🛒</span>
+          <ShoppingCart className="h-5 w-5" />
           QUERO RECEBER EM CASA
           <ArrowRight className="h-4 w-4" />
         </a>
