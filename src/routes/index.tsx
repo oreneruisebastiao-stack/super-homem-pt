@@ -166,7 +166,7 @@ function LandingPage() {
               {/* CTA */}
               <div className="mt-8 flex flex-col items-center gap-4 lg:items-start">
                 <CtaButton size="xl">
-                  <span className="text-2xl">🛒</span>
+                  <ShoppingCart className="h-5 w-5" />
                   QUERO RECEBER EM CASA
                   <ArrowRight className="h-5 w-5" />
                 </CtaButton>
