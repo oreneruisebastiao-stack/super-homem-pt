@@ -451,7 +451,7 @@ function LandingPage() {
             </div>
 
             <CtaButton size="xl" className="bg-white text-navy hover:bg-white/90 hover:shadow-white/20">
-              <span className="text-2xl">🛒</span>
+              <ShoppingCart className="h-5 w-5" />
               QUERO RECEBER EM CASA
             </CtaButton>
 
